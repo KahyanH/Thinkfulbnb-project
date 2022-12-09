@@ -110,7 +110,6 @@ form input {
 form div {
   display: flex;
   justify-content: space-between;
-  gap: 15px;
 }
 
 form button {
@@ -164,6 +163,7 @@ footer p {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    gap: 15px;
   }
 
   form div {
